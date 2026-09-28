@@ -1,0 +1,9 @@
+{"DESCRIPTION" : {"CENTER_NM":"유실물센터명", "STATION_NM":"전철역명"},
+"DATA" : [
+{"center_nm": "시청유실물센터", "station_nm":"시청역"},
+{"center_nm": "충무로유실물센터", "station_nm":"충무로역"},
+{"center_nm": "왕십리유실물센터", "station_nm":"왕십리역"},
+{"center_nm": "태릉유실물센터", "station_nm":"태릉입구역"},
+{"center_nm": "종합운동장유실물센터", "station_nm":"종합운동장역"}
+]
+}
